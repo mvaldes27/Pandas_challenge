@@ -2,7 +2,7 @@
 
 
 
-**Based on thorough analysis of purchase data from Heroes of Pymoli, several trends can be observed:
+*Based on thorough analysis of purchase data from Heroes of Pymoli, several trends can be observed:
 
 	* The bulk of consumers are male (84.03%), but males, females, and players of non-disclosed gender 
 	had similar average purchase prices. Average total purchases per person were slightly higher in females 
